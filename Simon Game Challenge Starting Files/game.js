@@ -1,1 +1,3 @@
-alert("It's working");
+function nexSequence(){
+    
+}
